@@ -305,7 +305,8 @@ footer {
 
 .carousel .active {
     border-color: #00b4ff;
-    background-color: #00b4ff !important;
+    border-width: 6px;
+    /* background-color: #00b4ff; */
 }
 
 .active img {
@@ -325,6 +326,7 @@ footer {
     font-weight: bold;
     padding-top: 19px;
     padding-bottom: 19px;
+    border-width: 0;
 }
 
 /**/
@@ -1199,4 +1201,7 @@ footer {
 }
 .activeImgCar img{
     width:100%;
+}
+.activeImgCar {
+    background-color: black;
 }
