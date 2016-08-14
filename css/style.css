@@ -1,0 +1,1200 @@
+@font-face {
+    font-family: Gotham;
+    src: url(../fonts/Gotham-Light.otf);
+}
+
+@font-face {
+    font-family: Gotham;
+    src: url(../fonts/Gotham-Bold.otf);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: Gotham-Book;
+    src: url(../fonts/Gotham-Book.otf);
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.explore {
+    padding-bottom: 50px;
+}
+
+.explore p {
+    color: white;
+    font: 200%/200% "Gotham-Book";
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-bottom: 0;
+}
+
+.learnMore {
+    padding-bottom: 50px;
+}
+
+.learnMore p {
+    color: white;
+    font: 200%/200% "Gotham-Book";
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-bottom: 0;
+}
+
+.learnMore img {
+    width: 100%;
+}
+
+.latest {
+    padding-bottom: 50px;
+}
+
+.title p {
+    color: white;
+    font: 200%/200% "Gotham-Book";
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-bottom: 0;
+}
+
+.border {
+    border-width: 2px;
+    border-right-style: dotted;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+
+}
+
+body {
+    background-color: black !important;
+}
+
+.logo {
+    width: 70%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+}
+
+.divider {
+    background-color: white;
+    height: 4px;
+}
+
+.paddingLR {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+
+.rowmarg {
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+    background-color: white;
+}
+
+.exploreTitle {
+    border-width: 2px;
+    border-bottom-style: dotted;
+    border-bottom-color: white;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-top: 40px;
+
+}
+
+.exploreTitle p {
+    color: white;
+    font: 200%/200% "Gotham";
+    text-align: left;
+    padding: 0px;
+    margin-bottom: 0;
+}
+
+.exploreCount {
+    border-width: 2px;
+    border-bottom-style: dotted;
+    border-bottom-color: rgba(255, 255, 255, 0.50);
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.exploreCount p {
+    color: white;
+    font: 200%/200% "Gotham";
+    text-align: left;
+    padding: 0px;
+    margin-bottom: 0;
+}
+
+.exploreDesc {
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    min-height: 162px;
+}
+
+.exploreDesc p {
+    color: white;
+    font: 140%/175% "Gotham";
+    text-align: left;
+    padding: 0px;
+    margin-bottom: 40px;
+}
+
+.latestTitle {
+    padding-top: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.latestTitle p {
+    color: black;
+    font: 200%/200% "Gotham";
+    text-align: left;
+    padding: 0px;
+    margin-bottom: 0;
+}
+
+.latestDesc {
+    padding-left: 25px;
+    border-right-width: 25px;
+    padding-bottom: 25px;
+    padding-right: 25px;
+    min-height: 164px;
+}
+
+.latestDesc p {
+    color: black;
+    font: 140%/175% "Gotham";
+    text-align: left;
+    padding: 0px;
+    margin-bottom: 40px;
+}
+
+.iconAlign {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    text-align: right;
+    color: white;
+    font-size: 250%;
+    padding-top: 5px;
+}
+
+.iconAlign img {
+    vertical-align: text-top;
+    width: 30%;
+}
+
+.iconAlignBlack {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    text-align: right;
+    color: black;
+    font-size: 200%;
+    padding-top: 5px;
+}
+
+.iconAlignBlack img {
+    width: 30%;
+}
+
+.lightSkyBlue {
+    background-color: #00b4ff;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.royalBlue {
+    background-color: #0533ff;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.blue {
+    background-color: #0810a6;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.springGreen {
+    background-color: #33f57a;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+footer {
+    padding-top: 0px;
+    padding-left: 50px;
+    margin-right: 0px;
+    border-right-width: 50px;
+    padding-right: 50px;
+    padding-bottom: 25px;
+}
+
+.footerSecond {
+    border: 2px white;
+    border-bottom-style: dotted;
+    border-top-style: dotted;
+    padding-top: 25px !important;
+    padding-bottom: 25px !important;
+}
+
+.footerSecond p {
+    color: white;
+    font: 50%/150% "Gotham";
+    text-align: left;
+    margin-bottom: 0px;
+}
+
+.footerFirst p {
+    color: white;
+    font: 60%/130% "Gotham";
+    text-align: left;
+    margin-bottom: 0px;
+
+}
+
+.footerFirst b {
+    color: white;
+    font: 150%/155% "Gotham";
+    text-align: left;
+    margin-bottom: 0px;
+    font-weight: bold;
+}
+
+.footerFirst {
+    padding-bottom: 25px;
+}
+
+.copyR {
+    padding-top: 25px;
+    display: inline-flex;
+}
+
+.copyR p, a {
+    padding-left: 15px;
+    padding-right: 15px;
+    color: white;
+    border-right-width: 1px;
+    border-color: white;
+    border-right-style: inset;
+    margin-bottom: 0px;
+}
+
+.copyR a {
+    color: white;
+}
+
+.carusel {
+    top: 350px !important;
+    left: 125% !important;
+    width: 4% !important;
+}
+
+.carusel li {
+    border-radius: 0 !important;
+    display: block !important;
+}
+
+.carousel .active {
+    border-color: #00b4ff;
+    background-color: #00b4ff !important;
+}
+
+.active img {
+    border: 0px !important;
+}
+
+.navlink {
+    text-align: right;
+    padding-right: 0px !important;
+    padding-top: 16px;
+}
+
+.navlink a {
+    color: black;
+    font: 105%/82% "Gotham";
+    margin-bottom: 0px;
+    font-weight: bold;
+    padding-top: 19px;
+    padding-bottom: 19px;
+}
+
+/**/
+/*drop down menu*/
+/**/
+
+.slide_container {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    z-index: 999;
+}
+
+#menu {
+    margin-top: 54px;
+    background: #00b4ff;
+    display: none;
+}
+
+#btn-opn {
+    cursor: pointer;
+
+}
+
+.layer {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(opacity=50)";
+
+}
+
+/**/
+/* END drop down menu*/
+/**/
+
+.focus img {
+    width: 100%;
+    padding: 50px;
+}
+
+.aboutTitle {
+    padding-top: 50px;
+    margin-right: 50px;
+    border: 2px white;
+    border-bottom-style: dotted;
+}
+
+.aboutTitle p {
+    color: white;
+    font: 230%/125% "Gotham";
+    text-align: left;
+    margin-bottom: 0px;
+    padding-bottom: 25px;
+}
+
+.aboutLinks {
+    padding-top: 25px;
+}
+
+.aboutLinks a {
+    color: white;
+    font: 185%/220% "Gotham";
+    text-align: left;
+    border: 0;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.blueButton {
+    background-color: #00B4FF;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    color: white !important;
+    border: 0;
+}
+
+.insightsTitle {
+    background-color: white;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 53px;
+}
+
+.insightsTitle h2 {
+    color: black;
+    font: 169%/100% "Gotham";
+    font-weight: bold;
+    text-align: left;
+}
+
+.insightsTitle p {
+    color: #00B4FF;
+    font: 135%/100% "Gotham";
+    text-align: left;
+    padding-top: 15px;
+}
+
+.email {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 50px;
+}
+
+.email button {
+    width: 100%;
+    background-color: #00B4FF;
+    border: none;
+    color: white;
+    padding: 5px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.email h2 {
+    color: white;
+    font: 250%/150% "Gotham";
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+.email p {
+    color: white;
+    margin-bottom: 25px;
+    font: 125%/150% "Gotham";
+    text-align: center;
+}
+
+.insightsMiddle {
+    background-color: white;
+    margin: 3%;
+    padding: 8%;
+
+}
+
+.insightsMiddle img {
+    width: 100%;
+}
+
+.rightPicDesc {
+    padding-top: 0px;
+    border-left-width: 5px;
+    border-left-style: inset;
+    padding-left: 20px;
+    margin-top: 25px;
+    border-color: black;
+}
+
+.rightPicDesc p {
+    color: dimgray;
+    font: 140%/157% "Gotham";
+    text-align: left;
+}
+
+.insightsMiddleArticle p {
+    color: black;
+    font: 85%/155% "Gotham";
+    text-align: left;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    border-bottom-width: 2px;
+    border-bottom-style: dotted;
+}
+
+.insightsMiddleArticle span {
+    color: lightgray;
+    font: 90%/155% "Gotham";
+    text-align: left;
+}
+
+.relatedInsights h2 {
+    border-bottom-color: black;
+    border-bottom-width: 2px;
+    border-bottom-style: inset;
+    padding-bottom: 10px;
+    color: black;
+    font: 183%/160% "Gotham";
+    text-align: left;
+    margin-bottom: 40px;
+}
+
+.relatedInsights h3 {
+    color: #00B4FF;
+    font: 183%/130% "Gotham";
+    text-align: left;
+}
+
+.relatedInsights a {
+    color: black;
+    font: 85%/85% "Gotham";
+    text-align: left;
+    padding-left: 0px !important;
+}
+
+.socialIcons {
+    text-align: right;
+}
+
+.socialIcons img {
+    width: 20px;
+}
+
+.insightsTitleBlack {
+    background-color: black;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 53px;
+}
+
+.insightsTitleBlack h2 {
+    color: white;
+    font: 169%/100% "Gotham";
+    font-weight: bold;
+    text-align: left;
+}
+
+.insightsTitleBlack p {
+    color: white;
+    font: 135%/100% "Gotham";
+    text-align: left;
+    padding-top: 15px;
+}
+
+.insightsNav {
+    background-color: #00B4FF;
+
+    height: 60px;
+}
+
+.insightsNavLinks {
+    padding: 20px 10% 20px 10%;
+}
+
+.insightsNavLinks a {
+    color: white;
+    font: 100%/100% "Gotham";
+    text-align: left;
+    border: 0;
+}
+
+.insightsMain {
+    background-color: #f5f5fa;
+}
+
+.imageWithTitle img {
+    width: 100%;
+    padding-top: 100px;
+}
+
+
+
+.panels {
+    background-color: white;
+    margin-top: 50px;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+
+.panelsImg {
+    padding: 0 !important;
+}
+
+.panelsImg img {
+    width: 100%;
+    padding: 0 !important;
+}
+
+/*about page*/
+.recognition img {
+    width: 100%
+}
+
+.aboutBuilding {
+    background-color: white;
+}
+
+.aboutBuilding img {
+    width: 100%;
+
+}
+
+.aboutIcon {
+    text-align: right;
+    padding-right: 0px;
+    padding-top: 10px;
+
+}
+
+.aboutIcon img {
+    width: 20%;
+}
+
+.exploreDescAbout {
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    min-height: 120px;
+}
+
+.exploreDescAbout p {
+    color: white;
+    font: 140%/175% "Gotham";
+    text-align: left;
+    padding: 0px;
+
+}
+
+.exploreTitleAbout {
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-top: 40px;
+
+}
+
+.exploreTitleAbout p {
+    color: white;
+    font: 200%/200% "Gotham";
+    text-align: left;
+    padding: 0px;
+    margin-bottom: 0;
+}
+
+.lightSkyBlueAbout {
+    background-color: #00b4ff;
+
+}
+
+.dividerNotLine {
+    padding-top: 33px
+}
+
+.AboutMiddle {
+    background-color: white;
+    margin: 3%;
+    padding: 8%;
+}
+
+.AboutMiddle h1 {
+    color: black;
+    font: 250%/150% "Gotham";
+    font-weight: bold;
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.AboutMiddle h4 {
+    color: black;
+    font: 125%/100% "Gotham";
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.aboutTop {
+    background-color: white;
+    margin: 3%;
+    padding: 8%;
+}
+
+.rightTabAboutDesc {
+    padding-top: 0px;
+    padding-left: 20px;
+    margin-top: 0px;
+}
+
+.rightTabAboutDesc p {
+    color: #00b4ff;
+    font: 166%/116% "Gotham";
+    text-align: left;
+    padding-top: 20px;
+}
+
+.rightTabAboutDesc h1 {
+    color: black;
+    font: 250%/100% "Gotham";
+    text-align: left;
+    font-weight: bold;
+    margin-top: 0px;
+}
+
+.leftTabAboutDesc p {
+    color: black;
+    font: 90%/150% "Gotham";
+    text-align: left;
+    padding-top: 20px;
+}
+
+.leftTabAboutDesc h4 {
+    color: black;
+    font: 150%/110% "Gotham";
+    text-align: left;
+    font-weight: bold;
+}
+
+.treeTabs {
+    background-color: #f5f5ff;
+}
+
+.treeTabs h2 {
+    color: #00B4FF;
+    font: 175%/125% "Gotham";
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.treeTabs p {
+    color: black;
+    font: 85%/85% "Gotham";
+    text-align: left;
+    padding-left: 20px !important;
+    padding-top: 20px;
+}
+
+/* end about page*/
+/* ETFS*/
+.emailBlue {
+    background-color: blue;
+}
+
+.ETFs {
+    background-color: white;
+    margin: 3%;
+    padding: 8%;
+}
+
+.materials img {
+    width: 100%;
+}
+
+.ETFs h1 {
+    color: black;
+    font: 180%/150% "Gotham";
+    text-align: left;
+    border: 2px;
+    border-bottom-color: black;
+    border-bottom-style: inset;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+}
+
+.methodology img {
+    width: 100%;
+}
+
+.methodologyText {
+    border-left-color: black;
+    border-width: 5px;
+    border-left-style: inset;
+    padding-left: 25px;
+}
+
+.methodologyText h3 {
+    color: blue;
+    font: 130%/100% "Gotham";
+    text-align: left;
+    font-weight: bold;
+}
+
+.methodologyText p {
+    color: black;
+    font: 100%/150% "Gotham";
+    text-align: left;
+}
+
+.distribution th {
+    background: blue;
+    color: white;
+}
+
+.distribution span {
+    color: black;
+    font: 47%/0px "Gotham";
+    text-align: left;
+}
+
+.blueTabl {
+    color: white;
+    background-color: #0810a6;
+}
+
+.portfolio img {
+    width: 100%
+
+}
+
+.portfolioTab {
+    background-color: #f5f5fa;
+    margin-top: 100px;
+    padding: 20px;
+}
+
+.portfolioTab p {
+    color: blue;
+    font: 123%/162% "Gotham";
+    text-align: left;
+}
+
+.pricing img {
+    width: 100%;
+}
+
+.priceTabs {
+    background-color: #f5f5ff;
+    padding: 20px;
+}
+
+.priceTabs h3 {
+    color: blue;
+    margin: 0px;
+}
+
+.priceTabs p {
+    padding: 0px;
+}
+
+.glue {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    border-color: black;
+    border-bottom-style: dotted;
+    border-right-style: dotted;
+    border-width: 1px;
+}
+
+.noBordBot {
+    border-bottom-style: none !important;
+}
+
+.noRightBorder {
+    border-right-style: none !important;
+}
+
+.priceTable {
+    padding: 20px;
+}
+
+.priceTable h3 {
+    color: blue;
+    margin: 0px;
+}
+
+.priceTable p {
+    padding: 0px;
+}
+
+.performance th {
+    background: blue;
+    color: white;
+}
+
+.performance img {
+    width: 100%
+}
+
+.fundOverRight {
+    margin-top: 30px;
+    border-left-color: black;
+    border-left-style: inset;
+    border-left-width: 4px;
+    padding-left: 20px !important;
+}
+
+.fundOverRight ul {
+    padding-left: 28px !important;
+}
+
+.fund h2 {
+    color: blue;
+    font: 123%/162% "Gotham";
+    text-align: left;
+    font-weight: bold;
+}
+
+.fund p {
+    color: black;
+    font: 90%/150% "Gotham";
+    text-align: left;
+}
+
+.fund li {
+    color: black;
+    font: 90%/150% "Gotham";
+    text-align: left;
+}
+
+.IndexDetails {
+    padding: 20px;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    border-right-color: black;
+    border-right-style: dotted;
+    border-right-width: 1px;
+}
+
+.IndexDetails h3 {
+    color: blue;
+    margin: 0px;
+    font: 100%/100% "Gotham";
+    text-align: center;
+}
+
+.IndexDetails p {
+    padding: 0px;
+    font: 90%/150% "Gotham";
+    text-align: center;
+}
+
+.indexdet {
+    padding-bottom: 30px;
+    margin-bottom: 50px;
+}
+
+.more {
+    text-align: right;
+}
+
+.etfsNav {
+    background-color: #0810a6;
+    height: 60px;
+}
+
+.etfsNavLinks {
+    padding: 20px 10% 20px 10%;
+}
+
+.etfsNavLinks a {
+    color: white;
+    font: 100%/100% "Gotham";
+    text-align: left;
+    border: 0;
+}
+
+.etfsTitle {
+    background-color: #f5f5ff;
+    padding-left: 170px;
+
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 53px;
+}
+
+.etfsTitle h2 {
+    color: black;
+    font: 169%/100% "Gotham";
+    font-weight: bold;
+    text-align: left;
+}
+
+.etfsTitle p {
+    color: #0810a6;
+    font: 135%/100% "Gotham";
+    text-align: left;
+    padding-top: 15px;
+}
+
+.activeTab {
+    position: relative;
+}
+
+.activeTab:before {
+    content: '';
+    display: block;
+    position: absolute;
+    bottom: -53px;
+    left: calc(50% - 16px);
+    width: 0;
+    height: 0;
+    border: 16px solid transparent;
+    border-top-color: #0810a6;
+}
+
+.leadTab {
+    background-color: #0810a6;
+}
+
+.blueLead {
+    background-color: #0810a6;
+}
+
+.blueLeadTab {
+    margin-left: 40px;
+    margin-right: 40px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+
+}
+
+.blueLeadTab p {
+    color: white;
+    font: 200%/200% "Gotham";
+    text-align: left;
+    padding: 0px;
+    margin-bottom: 0;
+}
+
+.noRightPad {
+    padding-right: 0px !important;
+}
+
+.aboutBlueButton {
+    background-color: #00b4ff;
+    color: white !important;
+}
+.activeTabNav {
+    position: relative;
+}
+
+.activeTabNav:before {
+    content: '';
+    display: block;
+    position: absolute;
+    bottom: -53px;
+    left: calc(50% - 16px);
+    width: 0;
+    height: 0;
+    border: 16px solid transparent;
+    border-top-color: #00b4ff;
+}
+
+.Insights {
+    background-color: #f5f5ff;
+    margin: 0;
+    padding: 8%;
+}
+
+.materials img {
+    width: 100%;
+}
+
+.Insights h1 {
+    color: black;
+    font: 180%/150% "Gotham";
+    text-align: left;
+    border: 2px;
+    border-bottom-color: black;
+    border-bottom-style: inset;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+}
+.TopImg img{
+    width:100%
+}
+.overlay {
+    height: 175px;
+    width: 50%;
+    position: absolute;
+    bottom: 20px;
+    left: 45px;
+    color: white;
+    padding: 20px;
+}
+.overlayTop {
+    height: 100px;
+    width: 25%;
+    position: absolute;
+    top: 0;
+    left: 45px;
+    color: white;
+    padding: 20px;
+}
+.Insights p{
+    color: white;
+    font: 100%/150% "Gotham";
+    text-align: left;
+    font-weight: bold;
+}
+.Insights span{
+    color: white;
+    font: 80%/120% "Gotham";
+    text-align: left;
+}
+.Insights h2{
+    color: #00b4ff;
+    font: 150%/150% "Gotham";
+    text-align: left;
+    margin-top: 10px;
+
+ }
+.Insights a{
+    color: white;
+    font: 100%/150% "Gotham";
+    text-align: left;
+    padding-left: 0px;
+    padding-right: 0px;
+    border-right-width: 0px;
+}
+.InsightsTabs {
+    background-color: white;
+    padding:25px;
+    height: 229px;
+}
+.InsightsTabs p{
+    color: black;
+    font: 100%/150% "Gotham";
+    text-align: left;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+.InsightsTabs span{
+    color: gray;
+    font: 80%/120% "Gotham";
+    text-align: left;
+}
+.InsightsTabs a{
+    color: gray;
+    font: 80%/120% "Gotham";
+    text-align: left;
+}
+.InsightsTabs h2{
+    color: #00b4ff;
+    font: 125%/150% "Gotham";
+    text-align: left;
+    margin-top: 0px;
+}
+.noLeftPad{
+    padding-left: 0 !important;
+}
+.InsightsTabsImg img{
+    height: 229px;
+    width:auto;
+}
+.InsightsTabsImg{
+    background-color: white;
+    text-align: right;
+}
+.longHeight img{
+    height: 490px;
+    padding-left: 15px;
+    padding-right: 0px;
+}
+.InsightsTabsBlack{
+    background-color: black;
+    padding: 60px;
+}
+.InsightsTabsBlack h1{
+    color: white;
+    font: 400%/120% "Gotham";
+    text-align: left;
+    margin-top: 0px;
+    font-weight: bold;
+}
+.InsightsTabsBlack h2{
+    color: white;
+    font: 150%/150% "Gotham";
+    text-align: left;
+    margin-bottom: 25px;
+}
+.InsightsTabsBlack a{
+    color: white;
+    font: 150%/150% "Gotham";
+    text-align: left;
+    margin-top: 0px;
+    border-width: 0;
+}
+.activeNav{
+    color: #00b4ff !important;
+}
+
